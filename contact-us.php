@@ -2,13 +2,32 @@
 
     <main class="page-contact-us">
 
-        <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
+        <!-- <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
             <img class="jarallax-img" src="img\gallery\DSC_2467.jpg" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Hotel Five Elements</small>
                     <h1 class="slide-animated two">Contact Us</h1>
                 </div>
+            </div>
+        </div> -->
+        <div class="hero full-height jarallax" data-jarallax data-speed="0.2">
+            <img class="jarallax-img kenburns" src="img\gallery\DSC_2467.jpg" alt="">
+            <div class="wrapper opacity-mask d-flex align-items-center  text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                        <small class="slide-animated one">Hotel Five Elements</small>
+                        <h1 class="slide-animated two">Contact Us</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="mouse_wp slide-animated four">
+                    <a href="#first_section" class="btn_explore">
+                        <div class="mouse"></div>
+                    </a>
+                </div>
+                <!-- / mouse -->
             </div>
         </div>
         <!-- /Background Img Parallax -->

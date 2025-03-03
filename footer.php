@@ -31,7 +31,7 @@
                     <div class="footer_links">
                         <ul>
                             <li><a href="index">Home</a></li>
-                            <li class="suboptions"><a href="explore.php">Places to visit in Lonavala</a></li>
+                            <li class="suboptions"><a href="explore">Places to visit in Lonavala</a></li>
                             <li><a href="about-us">About Us</a></li>
                             <!-- <li><a href="room-list-1.html">Rooms</a></li> -->
                             <!-- <li><a href="news-1.html">News &amp; Events</a></li> -->

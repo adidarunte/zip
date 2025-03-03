@@ -4064,7 +4064,8 @@ textarea.form-control {
 }
 @media (max-width: 767px) {
   .margin_120_95 {
-    padding-top: 90px;
+    /* padding-top: 90px; */
+    padding-top: 65px;
     padding-bottom: 65px;
   }
 }

@@ -23,7 +23,7 @@
         <!-- /Background Img Parallax -->
 
         <div class="bg_white" id="first_section">
-            <div class="container ">
+            <div class="container margin_120_95">
             <div class="bg_white" id="first_section">
 
 <div class="fullwid container">

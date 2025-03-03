@@ -122,7 +122,7 @@
 
                     <div class="row" data-cues="slideInUp" data-delay="800">
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 room">
-                            <a href="tulip-suite.php" class="box_cat_rooms">
+                            <a href="tulip-suite" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/gallery/DSC_2151.jpg)"></div>
                                     <div class="info">
@@ -134,7 +134,7 @@
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 room">
-                            <a href="lilly-standard.php" class="box_cat_rooms">
+                            <a href="lilly-standard" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/gallery/DSC_2184.jpg)"></div>
                                     <div class="info">
@@ -146,7 +146,7 @@
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 room">
-                            <a href="orchid-deluxe.php" class="box_cat_rooms">
+                            <a href="orchid-deluxe" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/gallery/DSC_2181.jpg)"></div>
                                     <div class="info">

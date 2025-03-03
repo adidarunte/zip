@@ -161,7 +161,7 @@
         /jarallax video background -->
 
         <div class="pattern_2">
-            <div class="container margin_120_95" id="first_section">
+            <div class="container margin_120_95 first_section" id="first_section">
                 <div class="row justify-content-between flex-lg-row-reverse align-items-center">
                     <div class="col-lg-5 hide-on-mobile">
                         <div class="parallax_wrapper">
@@ -212,7 +212,7 @@
             </div>
             <div class="row justify-content-center add_bottom_90" data-cues="slideInUp" data-delay="300">
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 rooms">
-                    <a href="lilly-standard.php" class="box_cat_rooms">
+                    <a href="lilly-standard" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/gallery/DSC_2184.jpg)"></div>
                             <div class="info">
@@ -223,7 +223,7 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 rooms">
-                    <a href="orchid-deluxe.php" class="box_cat_rooms">
+                    <a href="orchid-deluxe" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/gallery/DSC_2181.jpg)"></div>
                             <div class="info">
@@ -234,7 +234,7 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 rooms">
-                    <a href="tulip-suite.php" class="box_cat_rooms">
+                    <a href="tulip-suite" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/gallery/DSC_2151.jpg)"></div>
                             <div class="info">
@@ -245,7 +245,7 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 rooms">
-                    <a href="sunflower-suite.php" class="box_cat_rooms">
+                    <a href="sunflower-suite" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/gallery/DSC_2178.jpg)"></div>
                             <div class="info">

@@ -56,23 +56,23 @@
                         <nav id="mainNav">
                             <ul>
                                  <li class="submenu">
-                                    <a href="index" class="show-submenu">Home</a>
+                                    <a href="index" >Home</a>
                                     
                                 </li>
                                 <li class="submenu">
-                                     <a href="lilly-standard" class="show-submenu">Rooms & Suites </a>
+                                     <a  class="show-submenu">Rooms & Suites </a>
                                     <ul>
                                         <li><a href="lilly-standard">Lilly Standard</a></li>
                                         <li><a href="orchid-deluxe">Orchid Deluxe</a></li>
                                         <li><a href="tulip-suite">Tulip Suite</a></li>
                                         <li><a href="sunflower-suite">Sunflower Suite</a></li>
-                                        <!-- <li><a href="room-4.php">Room 4</a></li> -->
+                                       
                                         <!-- <li><a href="room-details.html">Room details</a></li> -->
                                         <!-- <li><a href="room-details-booking.html">Working Booking Request</a></li> -->
                                     </ul>
                                 </li>
                                 <li class="submenu">
-                                     <a href="amenities" class="show-submenu">Amenities</a>
+                                     <a  class="show-submenu">Amenities</a>
                                     <ul>
                                         <li><a href="amenities#SwimmingPool">Swimming Pool</a></li>
                                         <li><a href="amenities#children">Children Play Area</a></li>

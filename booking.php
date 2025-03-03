@@ -20,7 +20,7 @@
           <p class="phone_element no_borders call">
             <a href="tel://9341211334"><i class="bi bi-telephone"></i></a>
           </p>
-          <p class="phone_element no_borders">
+          <p class="phone_element no_borders icon-whatsapp">
             <a href="https://wa.me/8308308373" target="_blank" rel="noopener noreferrer"><i class="bi bi-whatsapp"></i>
             </a>
           </p>

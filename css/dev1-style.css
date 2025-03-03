@@ -152,14 +152,15 @@ margin_30_30 {
         padding: 5px;
     }
     .title1 , .title2 {
-        padding-top: 40px;
+        padding-top: 15px;
+        margin-bottom: 20px !important;
     }
     .copy .container {
         flex-direction: column;
         line-height: 1.5;
     }
     .hero .wrapper {
-        height: 100% !important;
+        height: 100vh !important;
     }
     .hero.full-height {
         min-height: 545px !important;
@@ -185,3 +186,63 @@ margin_30_30 {
 .margin20 {
     margin: 20px 20px 20px 20px !important;
 }
+
+
+@media (max-width: 400px){
+.cta {
+   
+    flex-direction: column;
+ p , i{
+    margin: 5px!important;
+    padding: 0px!important;
+ }
+ .call{
+    margin-top: 21px!important;
+ }
+}
+
+}
+
+@media (max-width: 360px){
+footer a {
+    color: #ebd7b2;
+    font-size: 14px;
+}
+
+}
+
+@media (max-width: 991px) {
+    .hero.full-height:not(.page-home .hero.full-height) {
+        min-height: 450px !important;
+        height: 450px !important;
+    }
+    .hero .wrapper:not(.page-home .hero .wrapper) {
+        height: 450px !important;
+    }
+
+   html body .page-home #first_section {
+        padding-top: 146px!important;
+    }
+
+    .room_facilities_list ul.slideInLeft{
+        display: flex !important;
+            flex-wrap: wrap !important;
+            font-size: 14px!important;
+    }
+   
+}
+
+@media (min-width: 991px) {
+#children , #travel, #Parking{
+    text-align: right !important;
+}
+
+.hero.full-height:not(.page-home .hero.full-height) {
+    height: 450px;
+}
+.title {
+   
+    padding-left: 40px;
+}
+}
+
