@@ -1,0 +1,187 @@
+.copy .container {
+    display: flex;
+    justify-content: space-between; /* Align left & right */
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.left, .right {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    margin: 0 10px;
+}
+
+.cta{
+    display: flex;
+    align-items: center;
+}
+
+.cta p{
+    margin-bottom: 5px !important;
+    margin-top: 15px;
+}
+
+.call {
+    margin-left: 30px !important;
+}
+/* .submenu{
+    margin-left: 0px !important;
+}
+.suboptions{
+    margin-left: 0px !important;
+} */
+@media (min-width: 991px) {
+    .main-menu {
+    margin-right: -100px;
+}
+}
+.container-5233{
+    
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.container-5233 .justify-content-between {
+    justify-content:space-around !important;
+    align-items: center;
+}
+.title {
+    scroll-margin-top: 270px; /* Adjust based on header height */
+}
+.title1{
+    background-color: rgb(255, 255, 255);
+    padding: 70px 0px 40px 0px;
+}
+.title2{
+    background-color: rgba(250, 235, 215, 0.308);
+    padding: 70px 0px 40px 0px;
+}
+.icon {
+    size: height="62" width="62";
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+margin_30_30 {
+    width: 95%;
+    margin-left: 30px !important;
+    margin-right: 30px !important;
+    margin-top: 90px !important;
+    margin-bottom: 90px !important;
+}
+.top {
+    padding-top: 100px;
+}
+.bottom {
+    margin-bottom: 100px;
+}
+.padding_100_60 {
+    padding-bottom: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.pinned-image--small {
+    height: 55vh !important;
+}
+
+    /* @media (min-width: 1200px) {
+        /* .rooms {
+            flex: 0 0 auto;
+            width: 33% !important;
+        } */
+        /* .room {
+            width: 40% !important;
+
+        } */
+
+.space {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+.small {
+    height: 34px;
+    width: 34px;
+    margin-right: 15px;
+}
+.ic {
+    height: 72px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.foot {
+    margin-top: -80px !important;
+    position: relative;
+    z-index: 4;
+    padding-bottom: 0px !important;
+}
+.bi-telephone:hover , .bi-whatsapp:hover {
+    background: #978667;
+    color: white;
+    transition: 0.3s;
+}
+.bi-telephone, .bi-whatsapp {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.refun {
+    line-height: 2.0;
+}
+
+@media (max-width: 991px) {
+    .hide-on-mobile {
+        display: none !important;
+    }
+    .copy {
+        display: block;
+        justify-items: center;
+
+    }
+    .logo_panel img {
+        height: 60px !important;
+        width: 250px !important;
+        margin-right: 100px !important;
+        padding: 5px;
+    }
+    .title1 , .title2 {
+        padding-top: 40px;
+    }
+    .copy .container {
+        flex-direction: column;
+        line-height: 1.5;
+    }
+    .hero .wrapper {
+        height: 100% !important;
+    }
+    .hero.full-height {
+        min-height: 545px !important;
+    }
+    .marg {
+        padding-bottom: 12px;
+    }    
+}
+
+@media (max-width: 1024px) {
+    .hide-on-mobile2 {
+        display: none !important;
+    }
+    
+}
+.hotel {
+    margin: 10px 10px 10px 10px;
+}
+.slideInLeft ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+.margin20 {
+    margin: 20px 20px 20px 20px !important;
+}

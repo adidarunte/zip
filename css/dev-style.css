@@ -1,0 +1,70 @@
+#mainNav ul li a.active {
+  color: #978667 !important;
+  font-weight: bold;
+}
+
+.float{
+	position:fixed;
+	width:45px;
+	height:45px;
+	bottom:30px;
+	left:30px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:0px;
+}
+
+ .nice-select.wide {
+    width: 100%;
+    padding-top: 10px;
+	border-radius: 5px !important;
+}
+
+.logo_normal img, .logo_sticky img  {
+	width: 232px !important;
+} 
+
+a {
+  
+    text-decoration: none!important;
+}
+
+.modal-content {
+    
+    padding: 10px;
+}
+
+.modal-body {
+    padding: 0px!Important;
+}
+
+.modal-content {
+    background-color: rgba(151, 134, 103, 0.05);
+    border-radius: 11px !important;
+    -webkit-border-radius: 11px !important;
+    -moz-border-radius: 11px !important;
+    -ms-border-radius: 11px !important;
+    -o-border-radius: 11px !important;
+top:60px !important;
+    
+}
+
+footer .move_content strong span {
+  visibility: hidden;
+}
+
+
+.alert-danger {
+  color: #842029;
+  background-color: #f8d7da;
+  border-color: #f5c2c7;
+  display: none;
+}
